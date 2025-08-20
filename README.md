@@ -3,5 +3,5 @@
 Bun 올인원 런타임과 Vite를 사용해 리액트를 빌드할 수 있는 환경을 구성합니다.
 
 ```sh
-bun create Heosion/react-js-vite
+bun create Heosion/react-js-vite <프로젝트 이름>
 ```
